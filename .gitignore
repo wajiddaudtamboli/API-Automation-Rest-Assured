@@ -1,0 +1,26 @@
+# Java / Maven
+target/
+*.class
+*.log
+.classpath
+.project
+.settings/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test reports & artifacts
+surefire-reports/
+failsafe-reports/
+allure-results/
+allure-report/
+
+# Misc
+*.swp
+*.swo
